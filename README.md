@@ -1,0 +1,1 @@
+# Adobe-AfterFX-script-to-run-to-show-bulk-errors-in-composition
